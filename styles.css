@@ -1,6 +1,6 @@
 :root {
-    --primary: #667eea;
-    --secondary: #764ba2;
+    --primary: #d97706;
+    --secondary: #92400e;
     --dark: #111827;
     --light: #f9fafb;
     --text: #333333;
@@ -44,7 +44,7 @@ body {
 }
 
 .hero-content {
-    max-width: 800px;
+    max-width: 850px;
     margin: 8rem auto 0;
     text-align: center;
 }

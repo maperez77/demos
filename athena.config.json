@@ -4,9 +4,18 @@
   "slogan": "Con amor a tu servicio",
   "description": "Un espacio cálido para liberar tensión física y emocional mediante masajes, ajustes quiroprácticos, rehabilitación física, contención emocional y logoterapia.",
   "audience": "Personas que buscan bienestar físico, emocional y acompañamiento profesional",
+  "value": "Masajes, ajustes quiroprácticos, rehabilitación física, contención emocional y logoterapia",
   "mainService": "Relajación física y emocional",
   "serviceDescription": "Masajes relajantes, descontracturantes, drenaje linfático y ajustes quiroprácticos para disminuir tensión física y favorecer el bienestar integral.",
   "difference": "En cada sesión puedes liberar no solo la tensión del cuerpo, sino también la emocional, con acompañamiento profesional y humano.",
+  "services": [
+    "Masaje relajante",
+    "Masaje descontracturante",
+    "Drenaje linfático",
+    "Ajustes quiroprácticos",
+    "Logoterapia",
+    "Contención emocional"
+  ],
   "whatsapp": "525615676992",
   "style": "calido",
   "images": {
@@ -14,7 +23,7 @@
     "service": "https://images.unsplash.com/photo-1519823551278-64ac92734fb1?auto=format&fit=crop&w=1200&q=80",
     "wellness": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80"
   },
-  "primaryColor": "#667eea",
-  "secondaryColor": "#764ba2",
+  "primaryColor": "#d97706",
+  "secondaryColor": "#92400e",
   "generatedBy": "ATHENA Web"
 }
