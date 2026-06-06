@@ -17,13 +17,19 @@
     "Contención emocional"
   ],
   "whatsapp": "525615676992",
-  "style": "calido",
+  "theme": "sanacion-calida",
+  "style": "sanacion-calida",
   "images": {
     "hero": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=1600&q=80",
     "service": "https://images.unsplash.com/photo-1519823551278-64ac92734fb1?auto=format&fit=crop&w=1200&q=80",
     "wellness": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80"
   },
-  "primaryColor": "#d97706",
-  "secondaryColor": "#92400e",
-  "generatedBy": "ATHENA Web"
+  "primaryColor": "#b45309",
+  "secondaryColor": "#84a98c",
+  "generatedBy": "ATHENA Web",
+  "backgroundColor": "#fffaf3",
+  "surfaceColor": "#ffffff",
+  "textColor": "#3f2f24",
+  "font": "Georgia, serif",
+  "radius": "24px"
 }
