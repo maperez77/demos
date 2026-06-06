@@ -1,13 +1,20 @@
 {
   "businessName": "Chanti Yolotzin",
   "category": "Terapia física y emocional",
-  "audience": "Con amor a tu servicio",
-  "value": "Masajes, ajustes quiroprácticos, rehabilitaciín fisica, contención emocional, logoterapia",
-  "difference": "Dentro de cada masaje puedes liberar, no solo la tensión, del cuerpo, sino la emocionalsiendo sostenido por personal profesional",
-  "mainService": "Masaje: Realizamos masajes descontracturantes, drenaje linfático, ajustes quiroprácticos, con el fin de relajar, disminuir tensión fisica",
+  "slogan": "Con amor a tu servicio",
+  "description": "Un espacio cálido para liberar tensión física y emocional mediante masajes, ajustes quiroprácticos, rehabilitación física, contención emocional y logoterapia.",
+  "audience": "Personas que buscan bienestar físico, emocional y acompañamiento profesional",
+  "mainService": "Relajación física y emocional",
+  "serviceDescription": "Masajes relajantes, descontracturantes, drenaje linfático y ajustes quiroprácticos para disminuir tensión física y favorecer el bienestar integral.",
+  "difference": "En cada sesión puedes liberar no solo la tensión del cuerpo, sino también la emocional, con acompañamiento profesional y humano.",
   "whatsapp": "525615676992",
-  "style": "cálido",
-  "primaryColor": "#d97706",
-  "secondaryColor": "#92400e",
+  "style": "calido",
+  "images": {
+    "hero": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=1600&q=80",
+    "service": "https://images.unsplash.com/photo-1519823551278-64ac92734fb1?auto=format&fit=crop&w=1200&q=80",
+    "wellness": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80"
+  },
+  "primaryColor": "#667eea",
+  "secondaryColor": "#764ba2",
   "generatedBy": "ATHENA Web"
 }
